@@ -17,9 +17,8 @@ https://github.com/saravana87/Movie-MCP-Server.git
 
 # Create virtual environment
 python -m venv venv
-.\venv\Scripts\activate  # On Windows
-# source venv/bin/activate  # On macOS/Linux
 
-# Install dependencies
-pip install -r requirements.txt
+.\venv\Scripts\activate  # On Windows
+
+source venv/bin/activate  # On macOS/Linux
 
