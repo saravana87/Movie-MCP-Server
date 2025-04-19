@@ -22,3 +22,5 @@ python -m venv venv
 
 source venv/bin/activate  # On macOS/Linux
 
+Running the MCP Server
+python python .\mcp_moviedb_server.py --server_type=sse
